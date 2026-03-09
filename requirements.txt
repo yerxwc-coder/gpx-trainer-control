@@ -1,0 +1,6 @@
+gpxpy
+numpy
+bleak
+pycycling
+fitencode
+matplotlib
